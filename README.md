@@ -12,22 +12,10 @@ Briefly describe what your project does, its purpose, and its main features.
 - **Aldo Leonardo López Ruiz**:
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Dependencies](#dependencies)
-5. [Contact](#contact)
-
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Palakioz/Coders-Tycoon-Project.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Coders-Tycoon-Project
-    ```
-3. Follow the specific installation instructions for each section of the project (e.g., Unity video game, webpage, database).
+1. [Usage](#usage)
+2. [Features](#features)
+3. [Dependencies](#dependencies)
+4. [Contact](#contact)
 
 ## Usage
 ### Unity Video Game
