@@ -36,7 +36,7 @@ Briefly describe what your project does, its purpose, and its main features.
 
 ## Contact
 - **Ana Paula Figueroa Tardaguila**: A00835792@tec.mx
-- **Jorge Andres Palacios Plascencia**: A01722533@tec.mx
+- **Jorge Andres Palacios Plascencia**: jorgepalaciospg@gmail.com
 - **Alejandro Barrera Bejarano**: A01254672@tec.mx
 - **Fidel Morales Briones**: A01198630@tec.mx
 - **Felipe de Jesús Ramos Santos**: A00837590@tec.mx
