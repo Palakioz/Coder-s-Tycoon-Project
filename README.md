@@ -4,12 +4,12 @@
 - This is a project done by me and a team as a project done in Tecnologico de Monterrey for NEORIS as a way to demonstrate understanding and show our skills in the use of various technologies such as Unity, React, javascript, Microsoft SQL Server, html, css and teamwork.
 
 ## Team Members
-- **Ana Paula Figueroa Tardaguila**:
-- **Jorge Andres Palacios Plascencia**:
-- **Alejandro Barrera Bejarano**:
-- **Fidel Morales Briones**:
-- **Felipe de Jesús Ramos Santos**:
-- **Aldo Leonardo López Ruiz**:
+- **Ana Paula Figueroa Tardaguila**
+- **Jorge Andres Palacios Plascencia**
+- **Alejandro Barrera Bejarano**
+- **Fidel Morales Briones**
+- **Felipe de Jesús Ramos Santos**
+- **Aldo Leonardo López Ruiz**
 
 ## Usage
 ### Unity Video Game (Unity)
