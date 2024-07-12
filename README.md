@@ -11,35 +11,33 @@ Briefly describe what your project does, its purpose, and its main features.
 - **Felipe de Jesús Ramos Santos**:
 - **Aldo Leonardo López Ruiz**:
 
-## Table of Contents
-1. [Usage](#usage)
-2. [Features](#features)
-3. [Dependencies](#dependencies)
-4. [Contact](#contact)
+## Purpose
+- This is a project done by me and a team as a project done in Tecnologico de Monterrey for NEORIS as a way to demonstrate understanding and show our skills in the use of various technologies such as Unity, React, javascript, Microsoft SQL Server, html, css and teamwork.
 
 ## Usage
-### Unity Video Game
-- Instructions on how to run and play the game.
+### Unity Video Game (Unity)
+- Coder's Tycoon is a clicker game in which you are a programmer who is coding in his computer, every time you click the character you generate a Neo-Coin and with them you can buy updates for cosmetics in the store. The character can be customized and pets can be bought. The currency Neo-Star is a special currency which can only be obtained if you complete multiple courses in the Webpage, with Neo-Stars you can obtain even better updates which will give you an advantage over everyone else, only if you complete the courses.
 
-### Webpage
-- Instructions on how to access and use the webpage.
-- Include details for both user and admin access.
+### Webpage (React)
+- The Webpage is only accessible if you have an account already. The only way to create an account is through an administrator account.
 
-### Database
-- Instructions on setting up and interacting with the database.
+- Administrator does not have access to the game, but has access to everyone's progress either in the game or in the courses. They can create new accounts for other people and can edit the progress for everyone else. They have access to various information like:
+- Play Time
+- Last Online
+- Level
+- Neo Coins
+- Neo Stars
+- Courses
 
-## Features
-- List and describe the main features of your project.
-- Unity video game features.
-- Webpage features for users and admins.
-- Database functionalities.
+- Normal/Player accounts have access to the various courses they can complete, their main profile and the game (Coder's Tycoon).
 
-## Dependencies
-- List any dependencies or requirements needed to run your project.
-- Include versions if necessary.
+### Database (Microsoft SQL Server)
+- The database is a simple database done with Microsoft SQL Server in which we store various information about the users. Either they are admin or not, is it a deleted account, their progress in the courses, is the course liked or not, the game progress, this can be level, Coins, Stars, apparel, etc... It works with triggers and makes sure every user has a save space.
 
 ## Contact
-- Provide contact information for the team or main contributors.
-- Example: 
-  - **Name**: email@example.com
-  - **GitHub**: [your-username](https://github.com/your-username)
+- **Ana Paula Figueroa Tardaguila**: A00835792@tec.mx
+- **Jorge Andres Palacios Plascencia**: A01722533@tec.mx
+- **Alejandro Barrera Bejarano**: A01254672@tec.mx
+- **Fidel Morales Briones**: A01198630@tec.mx
+- **Felipe de Jesús Ramos Santos**: A00837590@tec.mx
+- **Aldo Leonardo López Ruiz**: A01254678@tec.mx
