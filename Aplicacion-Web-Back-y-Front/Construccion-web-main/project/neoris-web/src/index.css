@@ -1,0 +1,21 @@
+/* Hide scrollbar Chrome, Safari and Opera */
+* {
+  -ms-overflow-style: none;
+  font-weight: 500;
+}
+
+/* Hide scrollbar IE and Edge */
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Montserrat";
+}
