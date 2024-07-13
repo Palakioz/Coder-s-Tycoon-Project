@@ -13,7 +13,7 @@
 
 ## Usage
 ### Unity Video Game (Unity)
-Coder's Tycoon Game: (https://github.com/Palakioz/Coders-Tycoon-Game)
+Coder's Tycoon Game: https://github.com/Palakioz/Coders-Tycoon-Game
 Coder's Tycoon is a clicker game in which you are a programmer who is coding in his computer, every time you click the character you generate a Neo-Coin and with them you can buy updates for cosmetics in the store. The character can be customized and pets can be bought. The currency Neo-Star is a special currency which can only be obtained if you complete multiple courses in the Webpage, with Neo-Stars you can obtain even better updates which will give you an advantage over everyone else, only if you complete the courses.
 
 ### Webpage (React)
