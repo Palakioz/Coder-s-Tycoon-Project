@@ -1,7 +1,7 @@
 # Coder's Tyccon Project
 
 ## Project Description
-- This is a project done by me and a team as a project done in Tecnologico de Monterrey as a way to demonstrate understanding and show our skills in the use of various technologies such as Unity, React, javascript, Microsoft SQL Server, html, css and teamwork.
+This is a project done by me and a team as a project done in Tecnologico de Monterrey as a way to demonstrate understanding and show our skills in the use of various technologies such as Unity, React, javascript, Microsoft SQL Server, html, css and teamwork.
 
 ## Team Members
 - **Ana Paula Figueroa Tardaguila**
